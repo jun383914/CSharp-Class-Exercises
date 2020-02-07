@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LeapYear
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int Year = 2020;
+            if ((Year % 400 == 0) || ((Year % 4 == 0) && (Year % 100 != 0)))
+
+                Console.WriteLine("{0} is Leap Year!",Year);
+            else
+                Console.WriteLine("{0} is not a Leap Year",Year);
+
+
+        }
+    }
+}
