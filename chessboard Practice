@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace chessboard_Practice
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string x = "X";
+            string y = "O";
+            int n = 1;
+
+            for (n = 1; (n <= 8); n++)
+            {    if (n % 2 != 0)
+                    {
+                        Console.WriteLine(x + y + x + y + x + y + x + y);
+                    }
+                 if (n%2 == 0)
+                    {
+                    Console.WriteLine(y + x + y + x + y + x + y + x);
+                    }
+
+
+            }
+
+        }
+    }
+}
