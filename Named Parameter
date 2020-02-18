@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Example
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            void Foo(int x = 0, int y = 0) { Console.WriteLine(x + "," + y); }
+            int a = 0;
+            Foo(y: ++a, x: --a);//print out(0,1)
+            //Foo(y:a++, x:a--) print out (1,0)
+            //Foo(x:++a, y:--a) print out (1,0)
+            //The point here is named parameter are evaluated in the order they appear.
+        }
+    }
+}
