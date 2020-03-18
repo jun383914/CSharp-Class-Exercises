@@ -1,0 +1,12 @@
+C:\Users\Student2\OneDrive\c#\MidTerm\Math\Math\Math\bin\Debug\Math.exe.config
+C:\Users\Student2\OneDrive\c#\MidTerm\Math\Math\Math\bin\Debug\Math.exe
+C:\Users\Student2\OneDrive\c#\MidTerm\Math\Math\Math\bin\Debug\Math.pdb
+C:\Users\Student2\OneDrive\c#\MidTerm\Math\Math\Math\obj\Debug\Math.csprojAssemblyReference.cache
+C:\Users\Student2\OneDrive\c#\MidTerm\Math\Math\Math\obj\Debug\Math.exe
+C:\Users\Student2\OneDrive\c#\MidTerm\Math\Math\Math\obj\Debug\Math.pdb
+C:\Users\jun38\Desktop\MidTerm\Math\Math\Math\bin\Debug\Math.exe.config
+C:\Users\jun38\Desktop\MidTerm\Math\Math\Math\bin\Debug\Math.exe
+C:\Users\jun38\Desktop\MidTerm\Math\Math\Math\bin\Debug\Math.pdb
+C:\Users\jun38\Desktop\MidTerm\Math\Math\Math\obj\Debug\Math.csprojAssemblyReference.cache
+C:\Users\jun38\Desktop\MidTerm\Math\Math\Math\obj\Debug\Math.exe
+C:\Users\jun38\Desktop\MidTerm\Math\Math\Math\obj\Debug\Math.pdb
