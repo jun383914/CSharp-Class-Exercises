@@ -1,0 +1,12 @@
+C:\Users\Student2\OneDrive\c#\MidTerm\Form Namespace\Form Namespace\obj\Debug\Form Namespace.csprojAssemblyReference.cache
+C:\Users\Student2\OneDrive\c#\MidTerm\Form Namespace\Form Namespace\bin\Debug\Form Namespace.exe.config
+C:\Users\Student2\OneDrive\c#\MidTerm\Form Namespace\Form Namespace\bin\Debug\Form Namespace.exe
+C:\Users\Student2\OneDrive\c#\MidTerm\Form Namespace\Form Namespace\bin\Debug\Form Namespace.pdb
+C:\Users\Student2\OneDrive\c#\MidTerm\Form Namespace\Form Namespace\obj\Debug\Form Namespace.exe
+C:\Users\Student2\OneDrive\c#\MidTerm\Form Namespace\Form Namespace\obj\Debug\Form Namespace.pdb
+C:\Users\jun38\Desktop\MidTerm\String\Form Namespace\bin\Debug\Form Namespace.exe.config
+C:\Users\jun38\Desktop\MidTerm\String\Form Namespace\bin\Debug\Form Namespace.exe
+C:\Users\jun38\Desktop\MidTerm\String\Form Namespace\bin\Debug\Form Namespace.pdb
+C:\Users\jun38\Desktop\MidTerm\String\Form Namespace\obj\Debug\Form Namespace.csprojAssemblyReference.cache
+C:\Users\jun38\Desktop\MidTerm\String\Form Namespace\obj\Debug\Form Namespace.exe
+C:\Users\jun38\Desktop\MidTerm\String\Form Namespace\obj\Debug\Form Namespace.pdb
